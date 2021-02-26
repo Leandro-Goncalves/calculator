@@ -7,10 +7,10 @@ Is a **simple** and **beautiful** calculator designed to teach children in a sim
 The application consists of a calculator with the main mathematical operations, focused on simplicity and responsiveness. 
 
 ## Layout mobile
-![Mobile 1](https://github.com/Leandro-Goncalves/calculator/assets/images/mobile.png)
+![Mobile 1](https://raw.githubusercontent.com/Leandro-Goncalves/calculator/main/assets/images/mobile.png)
 
 ## Layout web
-![Web 1](https://github.com/Leandro-Goncalves/calculator/assets/images/web.png)
+![Web 1](https://raw.githubusercontent.com/Leandro-Goncalves/calculator/main/assets/images/web.png)
 
 # Technologies used 
 ## Front end
