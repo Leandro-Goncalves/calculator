@@ -1,0 +1,28 @@
+.ScreenContainer {
+  width: 100%;
+  height: 35%;
+  background-color: white;
+  border-radius: 5px;
+  color: var(--text-black);
+  padding: 30px;
+  box-shadow: inset 0 13px var(--blue-shadow);
+  overflow: hidden;
+}
+
+.ScreenUp {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  height: 50%;
+  align-items: flex-end;
+  font-size: 2rem;
+  color: #595959;
+}
+
+.ScreenDown {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  height: 50%;
+  font-size: 3rem;
+}
