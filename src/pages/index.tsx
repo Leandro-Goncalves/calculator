@@ -6,6 +6,7 @@ import styles from '../styles/pages/index.module.css';
 export default function Home() {
   return (
     <div className={styles.container}>
+      vai
       <div className={styles.titleFirst}>Calcu</div>
       <div className={styles.calculatorContainer}> 
         <CalculatorScreen></CalculatorScreen>
